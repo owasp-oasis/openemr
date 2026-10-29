@@ -1,0 +1,8 @@
+/*
+!/interface
+/interface/*
+!/interface/modules
+/interface/modules/*
+!/interface/modules/custom_modules
+/interface/modules/custom_modules/*
+!/interface/modules/custom_modules/oe-module-faxsms
